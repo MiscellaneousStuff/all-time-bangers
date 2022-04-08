@@ -1,4 +1,4 @@
-# all-time-bangers
+# all-time-bangers-bot
 
 ## About
 
