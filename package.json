@@ -1,0 +1,25 @@
+{
+  "name": "all-time-bangers",
+  "version": "1.0.0",
+  "description": "Discord bot which allows group members to vote on which music to add to a super playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiscellaneousStuff/all-time-bangers.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "voting-bot",
+    "spotify-playlist-bot"
+  ],
+  "author": "MiscellaneousStuff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiscellaneousStuff/all-time-bangers/issues"
+  },
+  "homepage": "https://github.com/MiscellaneousStuff/all-time-bangers#readme"
+}
